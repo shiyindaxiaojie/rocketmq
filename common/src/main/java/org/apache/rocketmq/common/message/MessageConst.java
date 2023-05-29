@@ -54,6 +54,7 @@ public class MessageConst {
     public static final String PROPERTY_MESSAGE_TYPE = "MSG_TYPE";
     public static final String PROPERTY_INNER_MULTI_DISPATCH = "INNER_MULTI_DISPATCH";
     public static final String PROPERTY_INNER_MULTI_QUEUE_OFFSET = "INNER_MULTI_QUEUE_OFFSET";
+    public static final String PROPERTY_STARTDELIVERTIME = "__STARTDELIVERTIME";
 
     public static final String KEY_SEPARATOR = " ";
 
