@@ -31,7 +31,7 @@
     <artifactId>rocketmq-all</artifactId>
     <version>4.9.7-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Apache RocketMQ ${project.version}</name>
+    <name>rocketmq</name>
     <url>http://rocketmq.apache.org/</url>
 
     <scm>
